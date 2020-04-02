@@ -1,4 +1,4 @@
-datasciencecoursera
+Data_science_projects
 ===================
 
-Repository for data science courses
+Repository for data science projects
