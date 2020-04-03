@@ -1,4 +1,4 @@
-Data_science_projects
+Data Science Projects
 ===================
 
-Repository for data science projects
+House Price Prediction Model - Regression model, implemented with bagging and boosting methods.
